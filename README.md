@@ -1,3 +1,3 @@
 # projetofenix
 PI
-coito
+Este projteto está em desenvolvimento, qualquer alteração precisa ser reportada.
